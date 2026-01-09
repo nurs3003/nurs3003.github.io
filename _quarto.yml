@@ -1,6 +1,6 @@
 project:
   type: website
-  site-dir: docs
+  output-dir: docs
 
 website:
   title: "Nursultan Amangeldiev"
